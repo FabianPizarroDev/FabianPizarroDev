@@ -33,7 +33,7 @@ focusing on code quality, performance, and user experience.
 </p>
 <br />
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianPizarroDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h2>🔥| My contribution streak</h2>
 <p align="center">
