@@ -10,11 +10,7 @@
     </a>
 </div>
 
-<br />
-
-<a href="https://git.io/typing-svg"
-    ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=A5B6B3&width=600&height=60&lines=Hello%2C+I'm+Fabian+Pizarro;Software+Developer" alt="Typing SVG"
-/></a>
+<br/>
 
 <h2>📖 | About me</h2>
 💻 I'm a web developer with 3+ years of experience, specializing in backend development with Java and Spring Boot for scalable and secure enterprise applications. I've led the migration of legacy C++ systems to modern
@@ -31,47 +27,4 @@ focusing on code quality, performance, and user experience.
 <p>
     education example
 </p>
-<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianPizarroDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabianPizarroDev#version3" />
-    </a>
-</p>
-
-<h2>⭐ | Github Stats</h2>
-
-<div align="center">
-    <a href="https://github.com/FabianPizarroDev">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianPizarroDev&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianPizarroDev&layout=compact&langs_count=7&theme=default"
-    /></a>
-</div>
-
-<h2>🛠️ | Languages, Frameworks, and Tools</h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,php,spring" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql" /> <span style="font-size: 18px; vertical-align: middle; padding-left: 10px;">+ SQL Server</span></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">Other Tools:</td>
-        <td><span style="font-size: 18px; vertical-align: middle;">Arduino</span></td>
-    </tr>
-</table>
-<br />
