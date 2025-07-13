@@ -1,3 +1,14 @@
+<style>
+    @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+    .montserrat-500 {
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+    }
+</style>
+
 <div align="right">
     <a style="text-decoration: none" target="_blank" href="https://github.com/FabianPizarroDev">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=FabianPizarroDev.FabianPizarroDev&left_color=gray&right_color=blue&left_text=Coders%20visitors" />
@@ -9,6 +20,8 @@
         <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" />
     </a>
 </div>
+
+<h1 class="montserrat-500">Hello, I'm Fabian Pizarro</h1>
 
 <br/>
 
