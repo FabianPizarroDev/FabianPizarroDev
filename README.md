@@ -55,27 +55,23 @@ focusing on code quality, performance, and user experience.
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,php,spring" /></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js" /></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql" /> <span style="font-size: 18px; vertical-align: middle; padding-left: 10px;">+ SQL Server</span></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github" /></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana" /></td>
+        <td><span style="font-size: 18px; vertical-align: middle;">Arduino</span></td>
     </tr>
 </table>
 <br />
